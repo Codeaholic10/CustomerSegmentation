@@ -1,8 +1,4 @@
-# CustomerSegmentation
-This project involves analyzing a transnational e-commerce dataset to identify distinct customer groups based on their purchasing behavior. The goal is to move beyond a "one-size-fits-all" marketing approach and enable data-driven, personalized engagement strategies.
-Of course. Here is a comprehensive `README.md` file for your Customer Segmentation project. You can copy and paste this text into a file named `README.md` in your project's folder on GitHub.
 
------
 
 # Customer Segmentation using RFM Analysis & K-Means Clustering
 
